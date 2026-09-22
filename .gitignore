@@ -39,3 +39,11 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+/.android-sdk/
+/.gradle-user-home/
+/.android-user-home/
+/.npm-cache-build/
+
+# Local verification artifacts
+test-results/
+playwright-report/
